@@ -1,4 +1,4 @@
-PneumoniaDetection Executable
+# Pneumonia Detection Executable
 
 1. Prerequisites for Deployment 
 
