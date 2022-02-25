@@ -24,13 +24,9 @@ in the MathWorks Documentation Center.
 
 Files to Package for Standalone 
 ================================
--PneumoniaDetection.exe
--MCRInstaller.exe 
-    Note: if end users are unable to download the MATLAB Runtime using the
-    instructions in the previous section, include it when building your 
-    component by clicking the "Runtime included in package" link in the
-    Deployment Tool.
--This readme file 
+- PneumoniaDetection.exe
+- This readme file 
+- Splash Image
 
 
 
