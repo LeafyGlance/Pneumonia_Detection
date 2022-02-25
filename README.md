@@ -15,7 +15,7 @@
 ![Program Processing](/images/Pneumonia_Detection_Processing.png)
 
 # Program Classifying No Pneumonia CXR
-![Program No Pneumonia](/images/Pneumonia_Detection_No_Pneumonia.png
+![Program No Pneumonia](/images/Pneumonia_Detection_No_Pneumonia.png)
 * Displays classification together with a probability
 
 # Program Classifying Pneumonia CXR
