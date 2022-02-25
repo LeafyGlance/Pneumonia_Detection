@@ -1,12 +1,12 @@
 # Pneumonia Detection Executable
 
-1. Prerequisites for Deployment 
+Prerequisites for Deployment 
 
 Verify that version 9.11 (R2021b) of the MATLAB Runtime is installed.   
 If not, you can run the MATLAB Runtime installer.
 To find its location, enter
   
-    >>mcrinstaller
+    mcrinstaller
       
 at the MATLAB prompt.
 NOTE: You will need administrator rights to run the MATLAB Runtime installer. 
@@ -19,25 +19,6 @@ from the following link on the MathWorks website:
 For more information about the MATLAB Runtime and the MATLAB Runtime installer, see 
 "Distribute Applications" in the MATLAB Compiler documentation  
 in the MathWorks Documentation Center.
-
-2. Files to Deploy and Package
-
-Files to Package for Standalone 
-================================
-- PneumoniaDetection.exe
-- This readme file 
-- Splash Image
-
-
-
-3. Definitions
-
-For information on deployment terminology, go to
-https://www.mathworks.com/help and select MATLAB Compiler >
-Getting Started > About Application Deployment >
-Deployment Product Terms in the MathWorks Documentation
-Center.
-
 
 
 
